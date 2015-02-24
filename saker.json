@@ -3,6 +3,19 @@
     "lista":{
         "namn" : "Bengt",
         "titel" : "Slaktare"
-    }
+    },
+    "array": [
+    [
+      "Jonas",
+      "Jonasson",
+      "taxibil",
+      "post 4"
+    ],[
+      "Erik",
+      "Eriksson",
+      "Buss",
+      "post 5"
+    ]
+  ]
 }
 

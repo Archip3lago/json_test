@@ -1,3 +1,11 @@
+<?php
+
+    $bilar = array("alex_bil", "robins_bil", "mattias_bil", "martins_bil");
+    json_encode($bilar);
+
+
+
+?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,7 +16,7 @@
         <title>JSON</title>
     </head>
     <body>
-        <div class="ruta">
+        <div id="div1">
             
         </div>
     </body>
